@@ -1,0 +1,23 @@
+{
+  "name": "express testing",
+  "version": "1.0.0",
+  "description": "Just a demo site ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "https://github.com/seanlawrenz/demoSite.git",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/seanlawrenz/demoSite.git",
+  "dependencies": {
+    "express": "^4.13.0",
+    "jade": "^1.11.0"
+  }
+}
